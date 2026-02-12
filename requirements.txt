@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-google-genai
+langchain-pinecone
+pinecone-client
+pypdf
+python-dotenv
+flask
+flask-cors
+langchain-core
+langchain-huggingface
+pinecone-client
+sentence-transformers
+huggingface-hub
+google-generativeai
+gunicorn
